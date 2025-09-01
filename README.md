@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README.md
 # Chess AI Game
 
@@ -16,5 +15,4 @@ A web-based chess game with an AI opponent, built with Streamlit and PyTorch.
 - Move suggestion feature
 - Adjustable AI difficulty
 =======
-# AI-Based-Chess-Game
->>>>>>> ce4573de654a2778e7b5a1332a1db270c0068670
+
