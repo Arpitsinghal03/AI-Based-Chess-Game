@@ -1,6 +1,3 @@
-# README.md
-# Chess AI Game
-
 A web-based chess game with an AI opponent, built with Streamlit and PyTorch.
 
 ## Features
