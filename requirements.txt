@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit
+chess
+numpy
+torch
+python-chess
